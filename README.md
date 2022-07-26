@@ -15,6 +15,7 @@ Planned features are:
 ## Used technologies
   - My Debian home server
   - Java
+  - Spring (maybe)
   - JUnit (maybe TestNG?)
   - Selenium Grid
   - Docker
