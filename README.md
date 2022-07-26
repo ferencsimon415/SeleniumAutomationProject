@@ -8,12 +8,12 @@
 Planned features are:
   - Autonomous test framework (CI/CD) - tests are triggered when comitting
   - Log file created for each test execution
+  - A seperate machine (my Debian home server) will run the tests
   
 
 
 
 ## Used technologies
-  - My Debian home server
   - Java
   - Spring (maybe)
   - JUnit (maybe TestNG?)
